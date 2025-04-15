@@ -44,9 +44,11 @@ Participants were asked to provide:
 
 Gender (selected from: Male, Female, Other, or Prefer not to say)
 
-Age (free-text entry; values below age 18 were excluded from the dataset)
+Age (free-text entry; entries below age 18 were excluded)
 
-To preserve anonymity, no personally identifiable information (PII) was collected. Only participants who confirmed the accuracy and research suitability of their responses were retained.
+While no formal demographic quotas were enforced, the final sample reflects a reasonably balanced distribution across age groups and genders, supporting the generalisability of findings across diverse professional and life-stage backgrounds.
+
+To preserve anonymity, no personally identifiable information (PII) was collected. Only participants who confirmed the accuracy and research suitability of their responses were retained in the final dataset.
 
 🔍 Purpose of the Dataset
 This dataset supports analyses related to:
