@@ -1,3 +1,6 @@
+📦 Dataset DOI  
+(https://doi.org/10.5281/zenodo.15226177)
+
 📊 Dataset Overview: DISC-Inspired Personality Questionnaire (ML Study)
 This repository contains the anonymised dataset for a machine learning–driven exploration of the DISC personality framework. The data was collected as part of a research project examining whether computational methods can enhance the classification accuracy, efficiency, and interpretability of traditional DISC-based assessments.
 
